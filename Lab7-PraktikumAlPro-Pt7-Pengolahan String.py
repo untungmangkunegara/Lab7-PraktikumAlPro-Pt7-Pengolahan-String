@@ -8,7 +8,7 @@
 #SAYA MENGAMBIL SOAL DARI UG 7 KELAS A!
 #input : masukkan kalimat
 #proses : if
-#output : iiiiiiiiiiii
+#output : semua vokal berubah i
 #==================================================
 kalimat=str(input("Masukkan satu kalimat yang ingin diubah: "))
 kapital=0
